@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Screw 1 Pin=R1-1
+Removed Pin From Net: NetName=NetJ1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetJ1_1 Pin=R2-1
+Change Component Footprint: Designator=R1 Old Footprint=RESC2013X50X30NL20T20 New Footprint=RESC2013X50X30LL20T20
+Change Component Footprint: Designator=R2 Old Footprint=RESC2013X50X30NL20T20 New Footprint=RESC2013X50X30LL20T20
+Change Component Comment : Designator=R1 Old Comment=CRCW080510R0FKEA New Comment=CRCW0805100RFKEA
+Change Component Comment : Designator=R2 Old Comment=CRCW080510R0FKEA New Comment=CRCW0805100RFKEA
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E1182316-C5FE-4351-AB9B-3952923B7685 New ItemGUID=45B4216E-BA65-419D-A4D9-29E0D9524B64 Old RevisionGUID=83EFE520-2DE2-417E-96FA-2048E34F6767 New RevisionGUID=0EA8BD85-CADE-4E5C-B448-60096953E923
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E1182316-C5FE-4351-AB9B-3952923B7685 New ItemGUID=45B4216E-BA65-419D-A4D9-29E0D9524B64 Old RevisionGUID=83EFE520-2DE2-417E-96FA-2048E34F6767 New RevisionGUID=0EA8BD85-CADE-4E5C-B448-60096953E923
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC2013X50X30NL20T20"; UniqueID = "\EKXTIZAS" ("\EKXTIZAS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0805100RFKEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC2013X50X30NL20T20"; UniqueID = "\PZVGTAUA" ("\PZVGTAUA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0805100RFKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=R1-1
+Added Pin To Net: NetName=Screw 1 Pin=R1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R2-1
