@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: KSG_REFLOW_0825_BOARD.PcbDoc   15.08.2025  16:58:54
+NCDrill File Report For: KSG_REFLOW_0825_BOARD.PcbDoc   15.08.2025  22:22:44
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : KSG_REFLOW_0825_BOARD.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.4mm (16mil)                                             Round             2         PTH        1.77mm (0.07inch)
-T2      2.1mm (83mil)                                             Round             2         PTH        4.40mm (0.17inch)
+T1      0.4mm (16mil)                                             Round             6         PTH        6.73mm (0.27inch)
+T2      2.1mm (83mil)                                             Round             2         PTH        4.35mm (0.17inch)
 T3      2.3mm (91mil)                                             Round             4         NPTH       73.00mm (2.87inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              8
+Totals                                                                              12
 
 Total Processing Time (hh:mm:ss) : 00:00:00
