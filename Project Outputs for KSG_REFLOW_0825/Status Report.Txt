@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [KSG_REFLOW_0825.PrjPcb]
+   Generated File[KSG_REFLOW_0825_BOARD.TXT]
+   Generated File[KSG_REFLOW_0825_BOARD.LDP]
+   Generated File[KSG_REFLOW_0825_BOARD.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:58:54 On 15.08.2025
