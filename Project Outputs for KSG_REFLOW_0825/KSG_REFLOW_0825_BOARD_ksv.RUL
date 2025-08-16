@@ -1,5 +1,5 @@
-DRC Rules Export File for PCB: C:\Users\Yapupalo\Desktop\Работа\Орбитальные\Проекты\2\KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Yapupalo\Desktop\Работа\Орбитальные\Проекты\2\KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

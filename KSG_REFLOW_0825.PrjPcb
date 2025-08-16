@@ -49,6 +49,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=KSG_REFLOW_0825_BOARD_ksv.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LLUIREOZ
+
+[Document2]
 DocumentPath=main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYLHWFXI
 
-[Document2]
+[Document3]
 DocumentPath=KSG_REFLOW_0825_BOARD.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,95 +100,151 @@ GenerateClassCluster=0
 DocumentUniqueId=CYFKQCRV
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.DRR
+DocumentPath=Project Outputs for KSG_REFLOW_0825\Design Rule Check - KSG_REFLOW_0825_BOARD.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.EXTREP
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GBL
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GBO
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GBP
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GBS
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM1
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM5
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM13
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM14
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM15
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM16
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM21
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GPB
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GPT
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GTL
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GTO
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GTP
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GTS
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.LDP
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.REP
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.RUL
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.REP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -314,7 +387,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType2=PCB 3D Print
@@ -332,7 +405,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType5=PCBDrawing
@@ -344,7 +417,7 @@ PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType6=PCBLIB Print
 OutputName6=PCBLIB Prints
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType7=PDF3D
@@ -413,17 +486,17 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\Yapupalo\Desktop\Работа\Орбитальные\Проекты\2\KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.PcbDoc
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\Yapupalo\Desktop\Работа\Орбитальные\Проекты\2\KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType3=IPC2581
 OutputName3=IPC-2581 Files
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
 OutputType4=Test Points
 OutputName4=Test Point Report
@@ -433,7 +506,7 @@ OutputDefault4=0
 OutputType5=Plane
 OutputName5=Power-Plane Prints
 OutputDocumentPath5=
-OutputVariantName5=
+OutputVariantName5=[No Variations]
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType6=ODB
@@ -444,13 +517,13 @@ OutputDefault6=0
 OutputType7=Drill
 OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
-OutputVariantName7=
+OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType8=CompositeDrill
 OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType9=Board Stack Report
@@ -462,7 +535,7 @@ PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType10=Gerber X2
 OutputName10=Gerber X2 Files
 OutputDocumentPath10=
-OutputVariantName10=
+OutputVariantName10=[No Variations]
 OutputDefault10=0
 OutputType11=Final
 OutputName11=Final Artwork Prints
@@ -478,7 +551,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Yapupalo\Desktop\Работа\Орбитальные\Проекты\2\KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Yapupalo\Desktop\Работа\Орбитальные\Проекты\2\KSG_REFLOW_0825\KSG_REFLOW_0825_BOARD_ksv.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -789,7 +862,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1

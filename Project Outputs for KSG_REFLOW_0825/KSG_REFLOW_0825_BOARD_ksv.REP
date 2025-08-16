@@ -1,21 +1,21 @@
 *************************************************************
-FileName = KSG_REFLOW_0825_BOARD.GBR
+FileName = KSG_REFLOW_0825_BOARD_ksv.GBR
 AutoAperture = True
 *************************************************************
 Generating : Mechanical 1
-      File : KSG_REFLOW_0825_BOARD.GM1
+      File : KSG_REFLOW_0825_BOARD_ksv.GM1
 
     Adding Layer      : Mechanical 1
 
 
 Used DCodes :
     D12
-    D27
+    D28
 *************************************************************
 
 *************************************************************
 Generating : Bottom Overlay
-      File : KSG_REFLOW_0825_BOARD.GBO
+      File : KSG_REFLOW_0825_BOARD_ksv.GBO
 
     Adding Layer      : Bottom Overlay
 
@@ -26,23 +26,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : KSG_REFLOW_0825_BOARD.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D24
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
-      File : KSG_REFLOW_0825_BOARD.GBS
+      File : KSG_REFLOW_0825_BOARD_ksv.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -52,16 +37,15 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D15
-    D16
     D17
     D18
-    D26
+    D19
+    D27
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : KSG_REFLOW_0825_BOARD.GTS
+      File : KSG_REFLOW_0825_BOARD_ksv.GTS
 
     Adding Layer      : Top Solder
 
@@ -77,27 +61,12 @@ Used DCodes :
     D16
     D17
     D18
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : KSG_REFLOW_0825_BOARD.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
+    D19
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : KSG_REFLOW_0825_BOARD.GTO
+      File : KSG_REFLOW_0825_BOARD_ksv.GTO
 
     Adding Layer      : Top Overlay
 
@@ -109,39 +78,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : KSG_REFLOW_0825_BOARD.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : KSG_REFLOW_0825_BOARD.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D21
-    D24
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
-      File : KSG_REFLOW_0825_BOARD.GBL
+      File : KSG_REFLOW_0825_BOARD_ksv.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -149,18 +87,17 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D19
-    D20
     D21
     D22
     D23
     D24
     D25
+    D26
 *************************************************************
 
 *************************************************************
 Generating : Top Layer
-      File : KSG_REFLOW_0825_BOARD.GTL
+      File : KSG_REFLOW_0825_BOARD_ksv.GTL
 
     Adding Layer      : Top Layer
 
@@ -168,9 +105,9 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D13
-    D14
-    D19
+    D11
+    D15
+    D16
     D20
     D21
     D22

@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: KSG_REFLOW_0825_BOARD.GBR   15.08.2025  22:22:21
+Gerber File Extension Report For: KSG_REFLOW_0825_BOARD_ksv.GBR   16.08.2025  17:27:25
 ------------------------------------------------------------------------------------------
 
 
@@ -7,14 +7,10 @@ Gerber File Extension Report For: KSG_REFLOW_0825_BOARD.GBR   15.08.2025  22:22:
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTO                Top Overlay                             
-.GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
-.GPT                Top Pad Master                          
-.GPB                Bottom Pad Master                       
 ------------------------------------------------------------------------------------------
